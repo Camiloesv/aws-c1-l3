@@ -14,8 +14,8 @@ You will learn how engineers:
 
 ## Files for today
 
-1. `story-1-great-snag-sabotage.md`
-2. `story-2-close-encounters-servo-kind.md`
+1. `story_snag_sabotage.md`
+2. `servo_encounters.md`
 
 Character images are stored in the `images/` folder and embedded in each story.
 
