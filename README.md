@@ -17,6 +17,8 @@ You will learn how engineers:
 1. `story-1-great-snag-sabotage.md`
 2. `story-2-close-encounters-servo-kind.md`
 
+Character images are stored in the `images/` folder and embedded in each story.
+
 ## Important rule
 
 Do not worry if the story becomes messy. That is the point of the activity.
