@@ -1,8 +1,8 @@
 # Close Encounters of the Servo Kind
 
-Stevo, a local brickie, loved two things: his dog, and his battered 2006 work Ute. But Stevo had a problem. He was absolutely terrible at reverse parallel parking outside the local bakery, and he was sick of the other tradies laughing at him while his meat pie got cold.
+Meet Stevo. He's a worker with a 2005 work Ute and a dream of a self-driving car. But Stevo had a problem. He was absolutely terrible at reverse parallel parking outside the local bakery, and he was sick of the other tradies laughing at him while his meat pie got cold.
 
-![Stevo the Brickie](images/stevo-the-brickie.png)
+![Stevo](images/stevo-brickie.png)
 
 Looking for a quick fix, Stevo bought a "$15 Smart-Car AI Parking Chip" from a dodgy eBay seller in Tassie. He duct-taped it to the dashboard and wired it directly into the Ute's cigarette lighter.
 
